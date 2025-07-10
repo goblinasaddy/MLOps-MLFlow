@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c7ae22ee01c64b5b90de050d07d82c38/artifacts
+end_time: 1752058851112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7ae22ee01c64b5b90de050d07d82c38
+run_name: dazzling-mare-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752058850920
+status: 3
+tags: []
+user_id: Aditya Kumar Singh

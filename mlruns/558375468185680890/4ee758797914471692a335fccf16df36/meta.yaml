@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/558375468185680890/4ee758797914471692a335fccf16df36/artifacts
+end_time: 1752063466755
+entry_point_name: ''
+experiment_id: '558375468185680890'
+lifecycle_stage: active
+run_id: 4ee758797914471692a335fccf16df36
+run_name: spiffy-hare-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752063457872
+status: 3
+tags: []
+user_id: Aditya Kumar Singh

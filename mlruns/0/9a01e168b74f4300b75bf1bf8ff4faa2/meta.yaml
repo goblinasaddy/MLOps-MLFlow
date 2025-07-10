@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9a01e168b74f4300b75bf1bf8ff4faa2/artifacts
+end_time: 1752060607235
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a01e168b74f4300b75bf1bf8ff4faa2
+run_name: mysterious-calf-626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752060606754
+status: 3
+tags: []
+user_id: Aditya Kumar Singh

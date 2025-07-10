@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/558375468185680890/876defb866e14826a17e5bb88550605d/artifacts
+end_time: 1752060813938
+entry_point_name: ''
+experiment_id: '558375468185680890'
+lifecycle_stage: active
+run_id: 876defb866e14826a17e5bb88550605d
+run_name: upbeat-crow-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752060813518
+status: 3
+tags: []
+user_id: Aditya Kumar Singh
